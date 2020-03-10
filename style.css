@@ -1,0 +1,36 @@
+body{
+  margin: 0px;
+}
+.all{
+  text-align: center;
+  border: solid 25px #a9a9a9;
+  margin: 0px;
+  padding-bottom: 100px;
+}
+.apple{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 580px;
+}
+.applediv{
+  height: 120px;
+  background-color: #a9a9a9;
+  box-shadow: 25px 25px 25px 25px gray inset;
+}
+.tag{
+  text-align: center;
+  padding-top: 100px;
+}
+.life{
+    border: solid 1px black;
+    display: inline-block;
+}
+.information{
+    border: solid 1px black;
+    display: inline-block;
+}
+.interests{
+  border: solid 1px black;
+  display: inline-block;
+}
